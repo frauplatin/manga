@@ -5,14 +5,6 @@
   "author": "Haibuchi Yotsuji",
   "cover": "https://mangadex.org/covers/1c096629-862f-4438-8c17-1c18bc3fec7d/3d53c0d3-124f-4379-9c3d-a7a7cf66f99c.jpg",
   "chapters": {
-    "03": {
-      "title": "",
-      "last_updated": "1769156486",
-      "groups": {
-        "SpadeScans": "/proxy/api/imgchest/chapter/ej7mvkdmn7d"
-      },
-      "volume": "01"
-    },
     "01": {
       "title": "",
       "last_updated": "1769156503",
@@ -26,6 +18,14 @@
       "last_updated": "1769156510",
       "groups": {
         "SpadeScans": "/proxy/api/imgchest/chapter/qb4zmjx9dyj"
+      },
+      "volume": "01"
+    },
+    "03": {
+      "title": "",
+      "last_updated": "1769156486",
+      "groups": {
+        "SpadeScans": "/proxy/api/imgchest/chapter/ej7mvkdmn7d"
       },
       "volume": "01"
     },
@@ -45,27 +45,11 @@
       },
       "volume": "01"
     },
-    "10": {
-      "title": "",
-      "last_updated": "1769156668",
-      "groups": {
-        "SpadeScans": "/proxy/api/imgchest/chapter/dl7p593jpyo"
-      },
-      "volume": "02"
-    },
     "06": {
       "title": "",
       "last_updated": "1769158378",
       "groups": {
         "SpadeScans": "/proxy/api/imgchest/chapter/9p4nkxr3b4n"
-      },
-      "volume": "02"
-    },
-    "09": {
-      "title": "",
-      "last_updated": "1769158423",
-      "groups": {
-        "SpadeScans": "/proxy/api/imgchest/chapter/ne7bnva2m75"
       },
       "volume": "02"
     },
@@ -82,6 +66,22 @@
       "last_updated": "1769158606",
       "groups": {
         "SpadeScans": "/proxy/api/imgchest/chapter/lqyen6xamyd"
+      },
+      "volume": "02"
+    },
+    "09": {
+      "title": "",
+      "last_updated": "1769158423",
+      "groups": {
+        "SpadeScans": "/proxy/api/imgchest/chapter/ne7bnva2m75"
+      },
+      "volume": "02"
+    },
+    "10": {
+      "title": "",
+      "last_updated": "1769156668",
+      "groups": {
+        "SpadeScans": "/proxy/api/imgchest/chapter/dl7p593jpyo"
       },
       "volume": "02"
     }
